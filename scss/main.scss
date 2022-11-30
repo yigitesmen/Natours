@@ -1,9 +1,15 @@
 @import 'abstracts/_variables';
+@import 'abstracts/_mixins';
 
 @import 'base/base';
 @import 'base/animations';
 @import 'base/typography';
+@import 'base/utilities';
 
 @import 'components/button';
+@import 'components/composition';
 
 @import 'layouts/header';
+@import 'layouts/grid';
+
+@import 'pages/home';
