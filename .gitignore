@@ -1,5 +1,5 @@
 # Dependencies
 node_modules/
 
-# Compiled CSS
-css/
+# Compiled CSS files
+css/style*.css
