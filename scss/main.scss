@@ -1,5 +1,5 @@
-@import 'abstracts/_variables';
-@import 'abstracts/_mixins';
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
 
 @import 'base/base';
 @import 'base/animations';
@@ -13,6 +13,7 @@
 @import 'components/story';
 @import 'components/bg-video';
 @import 'components/form';
+@import 'components/popup';
 
 @import 'layouts/header';
 @import 'layouts/grid';
